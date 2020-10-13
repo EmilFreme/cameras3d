@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StaticMovable : MonoBehaviour
+public class PlayerLook : MonoBehaviour
 {
     Transform player;
     // Start is called before the first frame update
