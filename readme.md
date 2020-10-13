@@ -16,3 +16,5 @@ de um controle mais granular.
 1. Terceira Pessoa
 1. Primeira Pessoa
 
+
+TODO: Melhorar o controle de Primeira pessoas
